@@ -39,7 +39,7 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `phik`, `plotly`
 
-##  Часть 2: [A/B-тестирование]()
+##  Часть 2: [A/B-тестирование](https://github.com/Bukhanastyuk/Data_Analyst_Yandex.Practicum/blob/55c1fb92fdaedbd03e1affb05e9614e92c231c55/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%90%D0%91%D1%82%D0%B5%D1%81%D1%82.ipynb)
 **Цель исследования:**
 
 Оценка результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU
